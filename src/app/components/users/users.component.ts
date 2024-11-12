@@ -1,4 +1,3 @@
-// src/app/components/users/users.component.ts
 import { Component, inject, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ErrorDisplayComponent } from '../error-display/error-display.component';
