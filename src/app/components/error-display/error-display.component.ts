@@ -1,4 +1,3 @@
-// src/app/components/error-display/error-display.component.ts
 import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ErrorHandlerService } from '../../services/error-handler.service';
