@@ -1,4 +1,3 @@
-// src/app/components/toast/toast.component.ts
 import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ToastService } from '../../services/toast.service';
